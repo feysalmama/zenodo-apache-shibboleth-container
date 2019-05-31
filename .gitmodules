@@ -1,6 +1,6 @@
 [submodule "zenodo"]
 	path = zenodo
-	url = https://github.com/osct/zenodo.git
+	url = https://gitlab.com/feysalmam/zenodo.git
 [submodule "invenio-migrator"]
 	path = invenio-migrator
 	url = https://github.com/osct/invenio-migrator.git
